@@ -3,7 +3,7 @@
 To use this project follow the step below
 
 #first download this project,if it is in .zip then extract it
-#inside the project code ,if you found any system path(file path url) change it into your system path ,otherwise it won't work
+/n inside the project code ,if you found any system path(file path url) change it into your system path ,otherwise it won't work
 #make sure that all packages and libraries used in this project ,you need to install that on your computer 
 #then run 'manage.py' file and give command "python manage.py runserver" and then a link will generated in your terminal and click that link ,it will open in the browser 
 #then inorder to using the attendances system , user need to create a profile ,to do that
